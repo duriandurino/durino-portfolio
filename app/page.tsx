@@ -92,7 +92,9 @@ export default function Home() {
                     <Linkedin className="w-5 h-5" />
                   </motion.a>
                   <motion.a 
-                    href="mailto:adrian.alejandrino.1115@gmail.com"
+                    href="https://mail.google.com/mail/?view=cm&to=adrian.alejandrino.1115@gmail.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     whileHover={{ scale: 1.1, color: '#f97316' }}
                     className="p-4 bg-zinc-900 border border-zinc-800 rounded-full text-white transition-all"
                     aria-label="Email"
@@ -215,7 +217,9 @@ export default function Home() {
             </div>
             
             <motion.a 
-              href="mailto:adrian.alejandrino.1115@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&to=adrian.alejandrino.1115@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
               className="group relative inline-flex items-center justify-center px-12 py-8 bg-orange-500 text-black font-black text-2xl uppercase tracking-tighter rounded-3xl overflow-hidden"
