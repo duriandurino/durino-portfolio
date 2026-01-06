@@ -36,7 +36,9 @@ export const Navbar: React.FC<NavbarProps> = () => {
         </div>
 
         <motion.a
-          href="mailto:adrian.alejandrino.1115@gmail.com"
+          href="https://mail.google.com/mail/?view=cm&to=adrian.alejandrino.1115@gmail.com"
+          target="_blank"
+          rel="noopener noreferrer"
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
           className="bg-orange-500 text-black px-5 py-2 rounded-full font-bold text-sm hover:bg-orange-400 transition-colors flex items-center gap-2"
