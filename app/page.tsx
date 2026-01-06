@@ -72,7 +72,7 @@ export default function Home() {
               <div className="flex flex-col gap-4">
                 <div className="flex gap-4">
                   <motion.a 
-                    href="https://github.com/yourusername"
+                    href="https://github.com/duriandurino"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.1, color: '#f97316' }}
@@ -82,7 +82,7 @@ export default function Home() {
                     <Github className="w-5 h-5" />
                   </motion.a>
                   <motion.a 
-                    href="https://linkedin.com/in/yourusername"
+                    href="https://www.linkedin.com/in/adrian-alejandrino-268102299/"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.1, color: '#f97316' }}
